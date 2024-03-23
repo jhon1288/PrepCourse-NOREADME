@@ -1,0 +1,38 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #c93434;
+    color: #111212;
+    margin: 20px;
+
+    text-align: center;
+  }
+ #principal{
+    font-size: 2sem;
+    color: rgb(162, 236, 65);
+    background-color: black;
+    margin: 10px;
+
+    text-align: center;
+    
+ } 
+.container{
+    background-color: rgb(162, 236, 65);
+    padding: 5px;
+    border: 1px;
+
+    display: flex;
+    color: black;
+   text-align: center;
+}
+.box{
+    border: 3px;
+    font-size: 30px;
+    text-align: center;
+    margin: 15px;
+
+    width: 150px;
+}
+#sitefooter{
+    background-color: black;
+
+}
